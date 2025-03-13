@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Are you documented?"
+"""Are you documented?"""
 
 
 import json
