@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""Are you docuemnted ?"""
+"""Are you documented?"""
 
 
-def append_write(filename="", text=""):
-    """How far now"""
-    with open(filename, 'a+') as f:
+def write_file(filename="", text=""):
+    """I document you"""
+    with open(filename, 'w+') as f:
         return f.write(text)
